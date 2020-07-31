@@ -1,6 +1,6 @@
 ### Hi there 👋, Im Héctor Cabrera!
 
-- Soy programador web
+- I'm web developer
 
 ```julia
 module main
