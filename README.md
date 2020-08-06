@@ -7,22 +7,17 @@ module main
 
 aboutMe :: struct {
   pronouns :: string[];
-  languages :: string[];
   hobbies :: string[];
-  funFact :: string;
 }
 
 main :: func(): void {
-  ethan :: aboutMe = {
+  hector :: aboutMe = {
     pronouns: ["He", "Him"],
-    languages: ["C#", "PHP", "JavaScript"],
     hobbies: ["Coding", "Politics", "Talking"]
   };
 
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
+  println "Pronouns: ${hector.pronouns}";
   println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
 }
 ```
 
