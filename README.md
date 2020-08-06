@@ -17,7 +17,7 @@ main :: func(): void {
   };
 
   println "Pronouns: ${hector.pronouns}";
-  println "My Hobbies: ${ethan.hobbies}";
+  println "My Hobbies: ${hector.hobbies}";
 }
 ```
 
