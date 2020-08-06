@@ -31,24 +31,58 @@ main :: func(): void {
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>React</span><br>
-        <span>Level: Low</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      <td width="100%" colspan="4" align="center">
+        <span>CSS Frameworks</span><br>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>>Bootstrap</span><br>
+        <span>Level: High</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Bulma</span><br>
+        <span>Level: Low</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bulma.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>MaterializeCSS</span><br>
+        <span>Level: High</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
+      </td>
+    </tr><tr valign="top">
+      <td width="100%" colspan="4" align="center">
+        <span>Languages</span><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <spanC#</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br>
+        <span>Level: Low</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JSON</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/json.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>PHP</span><br>
+        <span>Level: High</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>
   </tbody>
