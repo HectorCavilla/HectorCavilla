@@ -178,18 +178,6 @@ main :: func(): void {
     </tr>
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
-        <span>CSS Preprocessors</span><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Stylus</span><br>
-        <span>Level: High</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/stylus.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="100%" colspan="4" align="center">
         <span>Package Managers</span><br>
       </td>
     </tr>
@@ -203,6 +191,69 @@ main :: func(): void {
         <span>Composer</span><br>
         <span>Level: Middle</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/composer.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="100%" colspan="4" align="center">
+        <span>Tasks Managers</span><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>GULP</span><br>
+        <span>Level: High</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gulp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GRUNT</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/grunt.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="100%" colspan="4" align="center">
+        <span>Source Version Control</span><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>GIT</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="100%" colspan="4" align="center">
+        <span>Code Managers</span><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Github</span><br>
+        <span>Level: High</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Bitbucket</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bitbucket.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="100%" colspan="4" align="center">
+        <span>GIT Clients</span><br>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Git Kraken</span><br>
+        <span>Level: Middle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gitkraken.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SourceTree</span><br>
+        <span>Level: Low</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sourcetree.svg">
       </td>
     </tr>
   </tbody>
