@@ -25,7 +25,6 @@ main :: func(): void {
 
 <table>
   <tbody>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>Languages</span><br>
@@ -70,8 +69,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
     </tr>
-
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>Front End Frameworks</span><br>
@@ -94,7 +91,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>FullStack Frameworks</span><br>
@@ -117,7 +113,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/phalcon.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>Web Frameworks</span><br>
@@ -130,7 +125,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>CSS Frameworks</span><br>
@@ -153,7 +147,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>Text Editors</span><br>
@@ -171,7 +164,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>CSS Preprocessors</span><br>
@@ -184,7 +176,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/stylus.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>CSS Preprocessors</span><br>
@@ -197,7 +188,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/stylus.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="100%" colspan="4" align="center">
         <span>Package Managers</span><br>
@@ -215,7 +205,6 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/composer.svg">
       </td>
     </tr>
-
   </tbody>
 </table>
 
